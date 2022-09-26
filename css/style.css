@@ -1,18 +1,19 @@
 .container{
     max-width: 1170px;
     margin: 0 auto;
+    margin-bottom: 30px;
 }
 .debug{
     border: 1px solid white;
-    background-color: blue;
+    background-color:#006CFA;
     color: white;
     text-align: center;
     min-height: 50px;
     line-height: 50px;
 }
 .green{
-    background-color: green;
+    background-color: #00E165;
 }
 .border-blu{
-    border-color: blue;
+    border-color:#006CFA;
 }
