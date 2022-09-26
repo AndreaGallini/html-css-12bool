@@ -1,0 +1,18 @@
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.debug{
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+}
+.green{
+    background-color: green;
+}
+.border-blu{
+    border-color: blue;
+}
